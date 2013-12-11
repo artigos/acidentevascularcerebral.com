@@ -1,0 +1,20 @@
+---
+layout: default
+title: AVC e a diabetes e hipercolesterolémia
+---
+
+#{{ page.title }}
+
+##O risco de acidente vascular cerebral nos doentes diabéticos é, pelo menos, duas vezes superior ao dos doentes não diabéticos.
+
+A diabetes pode aumentar o risco de acidente vascular cerebral em até 5 vezes e pode aumentar os depósitos ateromatosos. Os doentes com diabetes que têm um primeiro acidente vascular cerebral têm uma taxa de sobrevivência aos 5 anos de metade em comparação com os doentes não diabéticos com acidente vascular cerebral. A duração da diabetes influencia claramente a gravidade da doença vascular.
+
+A aterosclerose é mais comum e mais grave numa fase precoce da diabetes. Nas grandes artérias, as placas surgem em consequência duma lesão directa da membrana endotelial, do equilíbrio adverso das lipoproteínas e da hiperinsulinémia. Os pequenos vasos também são afectados mais frequentemente do que acontece no acidente vascular cerebral dos não diabéticos, resultando num risco aumentado de acidente vascular cerebral lacunar. Nas mulheres diabéticas, a aterosclerose intracraniana pode ser acelerada e estar presente por volta dos 40 anos.
+
+A diabetes surge frequentemente em conjunção com a hipertensão, a dislipidémia, a obesidade e o sedentarismo. A hipertensão e o tabagismo coexistentes contribuem para a aterosclerose nestes doentes.
+
+A obesidade induz perturbações metabólicas, que aumentam as situações envolvidas na patogenia da diabetes mellitus e das doenças vasculares. A inactividade física e a obesidade contribuem para a hipertensão, para os níveis elevados de colesterol, para o mau controlo da glicémia e para a depressão — factores que podem afectar o risco de acidente vascular cerebral. Estudos recentes demonstraram que o sedentarismo é um factor de risco específico e potencialmente modificável para o acidente vascular cerebral. Apenas 22% dos adultos americanos praticam uma actividade física moderada durante pelo menos 30 minutos por dia. A prevalência de inactividade física é mais elevada nas mulheres, nas pessoas com mais de 65 anos e nos membros de minorias raciais e étnicas. A actividade física diminuída pode prejudicar a actividade fibrinolítica endógena do antigénio do activa-dor do plasminogénio tecidular (t-PA). Desde o início da idade adulta, as alterações desfavoráveis nos perfis lipídicos ocorrem com o aumento do peso e com a diminuição da actividade e da forma física.
+
+Um nível sérico de colesterol total superior a 200 mg/dl está associado a um aumento do risco de acidente vascular cerebral. A forma heterozigótica da hipercolesterolémia familiar afecta aproximadamente uma em cada 500 pessoas e tanto as alterações hereditárias como as nutricionais são agravadas pela inactividade física. Se os níveis de LDL-C forem superiores a 100 mg/dl ou se a razão HDL/colesterol total for inferior ao recomendado para a idade, o risco de doença vascular está aumentado. Os homens com níveis baixos de HDL-C e doença coronária, mas sem níveis elevados de LDL-C ou de colesterol total, têm uma prevalência muito elevada de aterosclerose carotídea, tal como pode ser detectado por um eco-Doppler das carótidas. A doença carotídea ou intracraniana grave é precursora dum acidente vascular cerebral isquémico ou embólico. Uma dieta rica em gorduras saturadas ou parcialmente hidrogenadas, poli-insaturadas, irá aumentar o nível de colesterol total assim como de LDL-C.
+
+O consumo excessivo crónico de álcool é definido como a ingestão de 3 ou mais bebidas alcoólicas por dia. O risco relativo de acidente vascular cerebral isquémico nos alcoólicos é 1 ou 2 vezes superior ao risco dos indivíduos com um consumo moderado de álcool, mas a ingestão moderada parece diminuir o risco. O abuso do álcool aumenta o risco de acidente vascular cerebral ao aumentar a TA, os níveis de triglicéridos, a agregação plaquetária, a coagulação sanguínea, a fibrilhação auricular paroxística e a cardiomiopatia. Pode igualmente ocorrer uma trombocitose reactiva.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: O que é o Acidente Vascular Cerebral?
-permalink: /avc-definicao.html.html
+permalink: /avc-definicao.html
 ---
 
 #{{ page.title }}

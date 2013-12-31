@@ -64,7 +64,7 @@ Vários estudos recentes identificaram fatores que parecem aumentar ou diminuir 
 
 * Pessoas que foram tratadas para a pressão arterial elevada com diuréticos tiazídicos, como a hidroclorotiazida, apresentaram um risco de AVC significativamente menor do que as pessoas em tratamento com inibidores de ECA ou bloqueadores de canais de cálcio.
 * Mulheres com idades entre 15 a 44 anos que beberam 2 copos de vinho por dia apresentaram um risco de AVC 40% a 60% menor do que as mulheres que não bebem álcool.
-*A fenilpropanolamina, um composto contido em inibidores de apetite e remédios para as constipações, aumentou significativamente o risco de AVC hemorrágico em mulheres entre os 18 e os 49 anos de idade. esde então, a Food and Drug Administration (FDA) solicitou aos fabricantes que removessem a fenilpropanolamina das suas linhas de produtos.
+* A fenilpropanolamina, um composto contido em inibidores de apetite e remédios para as constipações, aumentou significativamente o risco de AVC hemorrágico em mulheres entre os 18 e os 49 anos de idade. esde então, a Food and Drug Administration (FDA) solicitou aos fabricantes que removessem a fenilpropanolamina das suas linhas de produtos.
 * Num estudo, s pessoas que foram tratadas, nos departamentos de emergência, para ataques isquémicos transitórios (AIT) apresentaram 25% de probabilidade de sofrer um AVC ou outro evento de saúde grave dentro dos 90 dias seguintes.
 
 ##Sintomas & Sinais
@@ -111,7 +111,7 @@ Medidas para reduzir o risco modificável de elevada pressão arterial , uma das
 
 * medir a pressão arterial nos adultos pelo menos uma vez a cada 2 anos para monitorizar a pressão arterial alta
 * controlo do peso
-*atividade física
+* atividade física
 * moderação no consumo de álcool
 * moderado consumo de sódio
 * para aqueles que fumam, deixar de fumar

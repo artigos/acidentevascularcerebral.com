@@ -33,10 +33,10 @@ A American Heart Association publicou recentemente diretrizes para a prevenção
 
 Os fatores não modificáveis são aqueles que não podem ser alterados pelo indivíduo e incluem:
 
-* aumento da idade. O risco de AVC de uma pessoa duplica a cada ano depois dos 55 anos de idade.
-* raça. Os AVC’s ocorrem aproximadamente duas vezes mais em negros e hispânicos em comparação com os caucasianos.
-* género. Os homens têm cerca de 50% mais probabilidades de sofrer um AVC do que as mulheres.
-* história familiar de AVC ou de acidente isquémico transitório (AIT). O AIT  uma forma curta e reversível de AVC que pode servir como prévio * sinal de alerta de AVC.
+* Aumento da idade. O risco de AVC de uma pessoa duplica a cada ano depois dos 55 anos de idade.
+* Raça. Os AVC’s ocorrem aproximadamente duas vezes mais em negros e hispânicos em comparação com os caucasianos.
+* Género. Os homens têm cerca de 50% mais probabilidades de sofrer um AVC do que as mulheres.
+* História familiar de AVC ou de acidente isquémico transitório (AIT). O AIT uma forma curta e reversível de AVC que pode servir como prévio * sinal de alerta de AVC.
 
 Fatores de risco modificáveis bem documentados são aqueles que podem ser alterados pelo indivíduo em conjunto com o seu provedor de cuidados médicos. Estes fatores foram associados ao AVC através de resultados sólidos de investigação, e existem provas documentadas de que alterar os fatores de risco reduz o risco de AVC de uma pessoa. Estes fatores incluem:
 
@@ -48,7 +48,7 @@ Fatores de risco modificáveis bem documentados são aqueles que podem ser alter
 * níveis elevados de colesterol no sangue, incluindo colesterol total e LDL, ou "mau colesterol". Baixos níveis de HDL ou "colesterol bom" também são motivo de preocupação.
 * fibrilação atrial, uma alteração do ritmo cardíaco
 
-Fatores de risco de AVC menos bem documentados ou potencialmente modificáveis  são aqueles que têm menos provas tanto de associação com o acidente vascular cerebral quanto de impacto na alteração do fator de risco. Estes fatores incluem:
+Fatores de risco de AVC menos bem documentados ou potencialmente modificáveis são aqueles que têm menos provas tanto de associação com o acidente vascular cerebral quanto de impacto na alteração do fator de risco. Estes fatores incluem:
 
 * obesidade
 * estilo de vida sedentário com atividade física inadequada
@@ -67,21 +67,20 @@ Vários estudos recentes identificaram fatores que parecem aumentar ou diminuir 
 * A fenilpropanolamina, um composto contido em inibidores de apetite e remédios para as constipações, aumentou significativamente o risco de AVC hemorrágico em mulheres entre os 18 e os 49 anos de idade. esde então, a Food and Drug Administration (FDA) solicitou aos fabricantes que removessem a fenilpropanolamina das suas linhas de produtos.
 * Num estudo, s pessoas que foram tratadas, nos departamentos de emergência, para ataques isquémicos transitórios (AIT) apresentaram 25% de probabilidade de sofrer um AVC ou outro evento de saúde grave dentro dos 90 dias seguintes.
 
-##Sintomas & Sinais
+##Sintomas e Sinais
 
 ###Quais são os sinais e os sintomas da doença?
 
 Os acidentes vasculares cerebrais podem apresentar vários sinais e sintomas iferentes, dependendo da região do cérebro danificada. Algumas pessoas têm várias áreas danificadas. A maioria dos AVC’s ocorrem subitamente, desenvolvem rapidamente, e provocam danos cerebrais em poucos minutos. Os sinais e sintomas incluem:
 
 * problemas de movimento, como fraqueza, falta de jeito, ou paralisia. Estes manifestam-se muitas vezes apenas num dos lados do corpo. Em alguns casos, as pessoas podem sentir fraqueza ou falta de jeito apenas na sua mão. Noutros casos, uma metade inteira do corpo fica paralisada.
-dor de cabeça
+* dor de cabeça
 * entorpecimento ou falta de sensibilidade, o qual ocorre também muitas vezes apenas num dos lados do corpo
 * dificuldades de fala, incluindo fala arrastada ou dificuldade em encontrar a palavra correta
 * dificuldade em fazer contas ou escrever
 * dificuldade na compreensão escrita e falada
 * incapacidade de reconhecer membros da família ou objetos comuns
-* demência, uma condição que afeta a memória, a compreensão e a capacidade de realizar as atividades normais da vida diária
-deficiência visual, incluindo visão turva ou perda total da visão
+* demência, uma condição que afeta a memória, a compreensão e a capacidade de realizar as atividades normais da vida diária deficiência visual, incluindo visão turva ou perda total da visão
 * deficiência auditiva
 * alterações na personalidade
 * dificuldade em engolir
@@ -89,7 +88,7 @@ deficiência visual, incluindo visão turva ou perda total da visão
 * coma
 * a incapacidade de respirar por conta própria. Tal poderá levar a que uma pessoa seja colocada numa máquina de respiração artificial, ou ventilador.
 
-##Diagnósticos & Exames
+##Diagnósticos e Exames
 
 ###Como é diagnosticada a doença?
 

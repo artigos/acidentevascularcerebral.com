@@ -3,9 +3,9 @@ layout: default
 title: Investigação do Acidente Vascular Cerebral
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Angioplastia e Aplicação de Stent
+## Angioplastia e Aplicação de Stent
 
 A angioplastia e a inserção de stent já começaram a ser vistos como
 possíveis opções viáveis no tratamento do AVC isquémico agudo. a taxa de
@@ -17,14 +17,14 @@ favoráveis. Estes dados sugerem que é necessário efetuar um estudo
 controlado aleatório para avaliar melhor a possível vantagem terapêutica
 desta medida preventiva.
 
-##Trombectomia mecânica
+## Trombectomia mecânica
 Pode ser tentada a remoção do coágulo naqueles em que a mesma ocorre
 dentro dum grande vaso sanguíneo, e pode ser uma opção para aqueles que
 ou não são elegíveis para efetuar trombolíticos intravenosos ou não 
 melhorarem com os mesmos. Ocorrem complicações consideráveis em cerca de
 7% das pessoas.
 
-##Neuroproteção
+## Neuroproteção
 Tem sido demonstrado experimentalmente, que as drogas que limpam espécies
 reativas de oxigénio inibem a morte celular programada, ou inibem os
 neurotransmissores excitatórios, reduzem a lesão de tecidos causada pela

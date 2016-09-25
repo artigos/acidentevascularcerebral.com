@@ -3,9 +3,9 @@ layout: default
 title: Prevenção primária do AVC isquémico
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Os doentes em risco devem deixar de fumar, devem controlar a pressão arterial, melhorar os hábitos dietéticos e de exercício e tentar um controlo óptimo da diabetes.
+## Os doentes em risco devem deixar de fumar, devem controlar a pressão arterial, melhorar os hábitos dietéticos e de exercício e tentar um controlo óptimo da diabetes.
 
 Todas estas medidas podem reduzir o risco de acidente vascular cerebral.
 

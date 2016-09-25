@@ -3,9 +3,9 @@ layout: default
 title: O doente com AVC
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A Doença Vascular Cerebral, habitualmente chamada AVC (Acidente Vascular Cerebral), é uma das principais causas de mortalidade e de morbilidade dos países ocidentais (3ª causa nos USA e 2ª em todo o Mundo).
+## A Doença Vascular Cerebral, habitualmente chamada AVC (Acidente Vascular Cerebral), é uma das principais causas de mortalidade e de morbilidade dos países ocidentais (3ª causa nos USA e 2ª em todo o Mundo).
 
 Em Portugal é a principal causa de morte, de morbilidade e de internamento hospitalar. Em 2002, 20% das mortes ocorridas no nosso país, foram devidas a AVC, estimando-se que tenham ocorrido cerca de 9 AVC por hora.
 

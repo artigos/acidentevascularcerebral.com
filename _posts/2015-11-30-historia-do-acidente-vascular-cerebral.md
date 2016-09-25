@@ -3,7 +3,7 @@ layout: default
 title: História do Acidente Vascular Cerebral
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Foi Hipócrates quem descreveu pela primeira vez a paralisia repentina que
 é frequentemente associada com os acidentes vasculares cerebrais (AVC).

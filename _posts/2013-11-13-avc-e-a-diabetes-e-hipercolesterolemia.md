@@ -3,9 +3,9 @@ layout: default
 title: AVC e a diabetes e hipercolesterolémia
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O risco de acidente vascular cerebral nos doentes diabéticos é, pelo menos, duas vezes superior ao dos doentes não diabéticos.
+## O risco de acidente vascular cerebral nos doentes diabéticos é, pelo menos, duas vezes superior ao dos doentes não diabéticos.
 
 A diabetes pode aumentar o risco de acidente vascular cerebral em até 5 vezes e pode aumentar os depósitos ateromatosos. Os doentes com diabetes que têm um primeiro acidente vascular cerebral têm uma taxa de sobrevivência aos 5 anos de metade em comparação com os doentes não diabéticos com acidente vascular cerebral. A duração da diabetes influencia claramente a gravidade da doença vascular.
 

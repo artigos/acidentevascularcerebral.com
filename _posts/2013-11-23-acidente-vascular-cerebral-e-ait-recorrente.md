@@ -3,13 +3,13 @@ layout: default
 title: Acidente Vascular Cerebral e AIT recorrente
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A ocorrência de um acidente vascular cerebral aumenta o risco dum acidente vascular cerebral subsequente em até 10 vezes.
+## A ocorrência de um acidente vascular cerebral aumenta o risco dum acidente vascular cerebral subsequente em até 10 vezes.
 
 O risco de acidente vascular cerebral recorrente é maior durante os primeiros 6 meses após um acidente vascular cerebral agudo (Quadro Abaixo). As causas mais comuns de acidente vascular cerebral recorrente incluem o tabagismo, a hipertensão, a diabetes, as doenças cardíacas tais como o EM, as doenças reumatológicas auto-imunes e a homocisteinémia. Os acidentes vasculares cerebrais silenciosos da substância branca observados na TAC são mais comuns nos fumadores e em pessoas com hipertensão mal controlada ou diabetes, e esses doentes devem ser considerados como de alto risco para um acidente vascular cerebral clinicamente significativo. Os doentes que tiveram um acidente vascular cerebral prévio têm uma probabilidade 4 vezes maior de terem outro acidente vascular cerebral após um EM agudo.
 
-## Risco de acidente vascular cerebral recorrente
+##  Risco de acidente vascular cerebral recorrente
 
 * Fibrilhação auricular
 * Doenças reumatológicas auto-imunes

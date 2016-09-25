@@ -3,15 +3,15 @@ layout: default
 title: O que fazer em caso de acidente vascular cerebral
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os acidentes vasculares cerebrais são, infelizmente, muito frequentes acabando por dificultar em muito a vida dos doentes que o sofreram assim com as da sua família. Nesta doença quanto mais rápido for o diagnóstico melhor será para o paciente, pois cada minuto que passe será mais um dano causado no cérebro, podendo este ser irreversível afetando o resto da sua vida. O acidente vascular cerebral consiste na perda da função neurológica, sendo que esta perda poderá ter duas origens, o entupimento ou o rompimento dos vasos sanguíneos cerebrais, no primeiro caso dá-se o nome de AVC isquémico, enquanto no segundo dá-se o nome de AVC hemorrágico. De certo modo, é possível dizer que o AVC hemorrágico é o mais perigoso devido à sua enorme taxa de mortalidade, contudo é o AVC isquémico que traz mais sequelas aos doentes.
 
-##O que fazer na presença de um AVC?
+## O que fazer na presença de um AVC?
 
 Em primeiro lugar necessita de saber identificar um AVC, pois é importante fazer uma espécie de diagnóstico prévio antes de tomar qualquer decisão, mas não se esqueça, quanto mais rápido reagir melhor será para o doente. Depois do primeiro diagnóstico realizado por si, deverá seguir uma série de passos para conseguir salvar a vida do doente.
 
-##Principais sintomas do AVC
+## Principais sintomas do AVC
 
 Para conseguir identificar se é ou não realmente um AVC é necessário saber quais os principais sintomas desta doença, só assim conseguirá reagir da melhor forma. Assim sendo os principais sintomas desta doença são:
 
@@ -20,7 +20,7 @@ Para conseguir identificar se é ou não realmente um AVC é necessário saber q
 * Desequilíbrio: Ao afetar o cérebro, uma das partes que condiciona é o equilíbrio da pessoa, acabando por ser mais difícil manter-se equilibrado e com coordenação a nível motor.
 * Cabeça: Tendo em conta que é um AVC irá afetar diretamente a cabeça, poderá ter dores de cabeça muito fortes, alteração na visão ou no paladar.
 
-##Como reagir em caso de AVC?
+## Como reagir em caso de AVC?
 
 Mais uma vez é de salientar que deverá ser o mais rápido possível, só assim se conseguirão evitar sequelas maiores. Quando deteta um ataque deverá ter alguns cuidados pois qualquer movimento mais brusco pode piorar a situação do doente.
 

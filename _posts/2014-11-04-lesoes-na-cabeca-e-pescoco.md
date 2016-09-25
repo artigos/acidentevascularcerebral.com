@@ -3,7 +3,7 @@ layout: default
 title: As lesões na cabeça e no pescoço podem aumentar o risco de acidente vascular cerebral em pacientes com trauma com menos do que 50 anos
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Sofrer uma lesão na cabeça ou no pescoço aumenta três vezes o risco de acidente vascular cerebral isquémico em pacientes com traumas com menos 50 anos, de acordo com a pesquisa apresentada na Conferência de Acidente Vascular Cerebral Internacional de 2014 da Associação de Acidentes Vasculares Cerebrais Americana.
 

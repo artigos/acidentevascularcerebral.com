@@ -3,7 +3,7 @@ layout: default
 title: Uma educação pobre, tabagismo, pressão arterial elevada pode levar ao aumento do risco de acidente vascular cerebral
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As pessoas com dietas mais ricas em proteínas, especialmente de peixes, podem ser menos propensas a ter um acidente vascular cerebral do que aquelas com dietas pobres em proteínas, de acordo com uma meta-análise publicada no dia 11 de Junho de 2014, da edição online de Neurology®, a revista de medicina da Academia Americana de Neurologia.
 

@@ -3,11 +3,11 @@ layout: default
 title: Como evitar um AVC
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O Acidente Vascular Cerebral (AVC) mata centenas de pessoas diariamente, sendo muitíssimo importante aprender a evita-lo para que as probabilidades dele acontecer sejam muito inferiores. Naturalmente existem fatores que ninguém pode controlar, como os genes, a idade, a hereditariedade, contudo existem outros fatores que é possível controlar e que farão toda a diferença.
 
-##Como evitar um AVC?
+## Como evitar um AVC?
 
 Muitas pessoas pensam que é impossível prever um AVC ou preveni-lo, o que não está totalmente certo nem totalmente errado, isto é, existem parâmetros que são impossíveis de controlar mas existem outros em que isso é possível controlar e assim evitar que este ataque surja.
 
@@ -21,19 +21,19 @@ Muitas pessoas pensam que é impossível prever um AVC ou preveni-lo, o que não
 * Doenças cardíacas: Tenha em atenção a saúde do seu coração, pequenos problemas podem acarretar outros problemas mais graves que poderão despoletar num AVC.
 * Dores de cabeça: No caso de ter dores de cabeça frequentes e muito fortes recorra de imediato a um médico e peça-lhe exames.
 
-##Remédio caseiro para a prevenção do AVC
+## Remédio caseiro para a prevenção do AVC
 
 Antes de mais é importante salientar que este remédio caseiro não é algo que é recomendado sistematicamente pelos médicos, contudo são várias as pessoas que já o experimentaram e conhecem as suas vantagens para o organismo. Sabe-se que o consumo de alcachofra ajuda a diminuir o colesterol no sangue, pois isso poderá utilizar-se para a prevenção do AVC.
 
-###Ingredientes
+### Ingredientes
 
 * 2 a 4g de alcachofra picada;
 * 1 Chávena de água;
 
-###Preparação
+### Preparação
 
 Em primeiro lugar coloque a água numa chaleira juntamente com a alcachofra e coloque no lume até ferver. De seguida deixe arrefecer o preparado e passe por um coador.
 
-###Modo de ingestão
+### Modo de ingestão
 
 Opte por tomar cerca de três chávenas deste preparado ao longo do dia, verá que o seu colesterol irá reduzir significativamente. É importante não esquecer que este processo deve ser sempre acompanhado de uma alimentação saudável e de exercício físico.

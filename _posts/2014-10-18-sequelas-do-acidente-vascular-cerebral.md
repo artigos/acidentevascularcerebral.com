@@ -3,23 +3,23 @@ layout: default
 title: Sequelas do acidente vascular cerebral
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O acidente vascular cerebral (AVC), vulgarmente chamado de _derrame cerebral_ existe quando ocorre um entupimento (isquemia) ou rompimento (hemorragia) dos vasos sanguíneos cerebrais.
 
 As sequelas do acidente vascular cerebral dependem da rapidez com que o paciente consegue cuidados médicos.
 
-## Sequelas do acidente vascular cerebral mais comuns
+##  Sequelas do acidente vascular cerebral mais comuns
 Durante um AVC certas zonas do cérebro deixam de receber irrigação sanguínea, o que por sua vez origina a perda de neurónios cerebrais.
 
 Se o doente for tratado rapidamente, a falta de irrigação pode não ser significativa e não existirem quaisquer sequelas, no entanto, caso não o seja, a perda de neurónios pode causar as seguintes sequelas:
 
-**Sequelas motoras:**
+** Sequelas motoras: **
 
 * Dificuldades em movimentar um dos braços;
 * Hemiplegia - Perda de movimento de todo um lado do corpo;
 
-**Sequelas neurológicas:**
+** Sequelas neurológicas: **
 
 * Boca torta;
 * Perda de memória;
@@ -39,7 +39,7 @@ Se o doente for tratado rapidamente, a falta de irrigação pode não ser signif
 * Dificuldade em se relacionar com os outros;
 * Falta de força de vontade para tentar corrigir as sequelas;
 
-## As sequelas do AVC têm cura?
+##  As sequelas do AVC têm cura?
 
 A gravidade das sequelas do acidente vascular cerebral dependem muito do tempo que o paciente demorou a receber cuidados médicos. Em alguns casos, o doente pode mesmo nunca chegar a ter sequelas.
 

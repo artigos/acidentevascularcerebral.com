@@ -3,9 +3,9 @@ layout: default
 title: Efeitos do Acidente Vascular Cerebral
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O AVC é uma doença devastadora e os seus efeitos são graves e por vezes duradouros.
+## O AVC é uma doença devastadora e os seus efeitos são graves e por vezes duradouros.
 
 Os principais efeitos do Acidente Vascular Cerebral:
 

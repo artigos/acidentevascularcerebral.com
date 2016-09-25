@@ -3,11 +3,11 @@ layout: default
 title: Alimentos que reduzem o risco do AVC
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O AVC é algo muito perigoso e irá transformar a vida de quem o sofre durante muito tempo, por isso a melhor opção é tentar evitar ao máximo que tal acontece. Esta doença não possui uma causa certa que faz com que esta aconteça, possui sim vários fatores de risco que fazem com alguns processos se desencadeiem e assim, inevitavelmente, as pessoas acabam por sofrer um acidente vascular cerebral. A prevenção é sem dúvida o melhor tratamento para esta doença, contudo é necessário salientar que mesmo prevenindo existe sempre uma mínima probabilidade do AVC surgir, mas ainda assim a diferença é enorme e compensa prevenir.
 
-##Alimentos que evitam o AVC
+## Alimentos que evitam o AVC
 
 Existem alguns fatores de risco que se pode evitar para que a probabilidade fique mais reduzida, mas existem também alguns alimentos que se podem ingerir que ajudarão a evitar o AVC, como os ricos em fibra. Uma alimentação equilibrada e saudável deverá ser sempre a primeira opção para todas as pessoas, por muito saudáveis que estas sejam, por isso quando se fala em alimentos que deverão introduzir na alimentação para evitar o AVC, refere-se claramente ao facto de os introduzir adicionando-os aos outros elementos já presentes na alimentação. Ao ter mais cuidados com a sua alimentação não terá de deixar de comer certos alimentos para os substituir por outros, terá sim de complementar a sua alimentação como alimentos que a enriquecerão.
 

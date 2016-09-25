@@ -3,9 +3,9 @@ layout: default
 title: Quanto tempo demoro a recuperar do AVC?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A recuperação de um acidente vascular cerebral é um processo lento e gradual.
+## A recuperação de um acidente vascular cerebral é um processo lento e gradual.
 
 > Sendo praticamente aceite que o pico de recuperação de um Acidente Vascular Cerebral anda à volta dos 3 meses, podendo ir até aos 6 meses após o Acidente Vascular Cerebral.
 

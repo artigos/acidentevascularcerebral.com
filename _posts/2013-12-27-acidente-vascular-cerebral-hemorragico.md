@@ -3,17 +3,17 @@ layout: default
 title: Acidente Vascular Cerebral Hemorrágico
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-## Visão geral, Causas, e Fatores de Risco
+##  Visão geral, Causas, e Fatores de Risco
 
 Um acidente vascular cerebral é a morte do tecido cerebral que ocorre quando o cérebro não recebe sangue e oxigénio suficientes.. O AVC hemorrágico é uma doença grave que ocorre quando o sangue escoa de um vaso sanguíneo danificado para o tecido cerebral.
 
-###O que está a acontecer no corpo?
+### O que está a acontecer no corpo?
 
 Um AVC hemorrágico ocorre quando os vasos sanguíneos no cérebro rompem e libertam o sangue para a área ao redor das células do cérebro. O sangue então danifica as células do cérebro. Os produtos libertados quando as células morrem provocam um edema cerebral. Uma vez que o crânio não possui muito espaço que permita a expansão, este edema poderá danificar ainda mais o tecido cerebral.
 
-###Quais são as causas e riscos desta doença?
+### Quais são as causas e riscos desta doença?
 
 Um AVC hemorrágico pode ser provocado por:
 
@@ -67,9 +67,9 @@ Vários estudos recentes identificaram fatores que parecem aumentar ou diminuir 
 * A fenilpropanolamina, um composto contido em inibidores de apetite e remédios para as constipações, aumentou significativamente o risco de AVC hemorrágico em mulheres entre os 18 e os 49 anos de idade. esde então, a Food and Drug Administration (FDA) solicitou aos fabricantes que removessem a fenilpropanolamina das suas linhas de produtos.
 * Num estudo, s pessoas que foram tratadas, nos departamentos de emergência, para ataques isquémicos transitórios (AIT) apresentaram 25% de probabilidade de sofrer um AVC ou outro evento de saúde grave dentro dos 90 dias seguintes.
 
-##Sintomas e Sinais
+## Sintomas e Sinais
 
-###Quais são os sinais e os sintomas da doença?
+### Quais são os sinais e os sintomas da doença?
 
 Os acidentes vasculares cerebrais podem apresentar vários sinais e sintomas iferentes, dependendo da região do cérebro danificada. Algumas pessoas têm várias áreas danificadas. A maioria dos AVC’s ocorrem subitamente, desenvolvem rapidamente, e provocam danos cerebrais em poucos minutos. Os sinais e sintomas incluem:
 
@@ -88,17 +88,17 @@ Os acidentes vasculares cerebrais podem apresentar vários sinais e sintomas ife
 * coma
 * a incapacidade de respirar por conta própria. Tal poderá levar a que uma pessoa seja colocada numa máquina de respiração artificial, ou ventilador.
 
-##Diagnósticos e Exames
+## Diagnósticos e Exames
 
-###Como é diagnosticada a doença?
+### Como é diagnosticada a doença?
 
 Exames de ressonância magnética e TAC cerebral poderão ser solicitados para mostrar o tipo, tamanho e localização do AVC.
 
 Poderão ser feitas análises ao sangue se a pessoa estiver a tomar medicamentos para diluir o sangue. Análises ao fluxo de sangue, utilizando ultrassom ou angiografia, poderão ser também utilizados.
 
-## Prevenção e Expectativas
+##  Prevenção e Expectativas
 
-###O que pode ser feito para prevenir a doença?
+### O que pode ser feito para prevenir a doença?
 
 Alguns AVC's hemorrágicos podem ser prevenidos através do controlo cuidadoso de doenças ou distúrbios subjacentes. A gestão cuidadosa da anemia falciforme ou da hemofilia A ou B , por exemplo, poderá reduzir a probabilidade de AVC’s hemorrágicos. Para indivíduos com aneurismas cerebrais diagnosticados, deverão ser cumpridas orientações para a monitorização e tratamento.
 
@@ -137,17 +137,17 @@ Medidas para reduzir riscos menos bem documentados ou potencialmente modificáve
 
 Algumas pessoas têm sinais de avido prévios de que estão em risco de sofrer um AVC.O sinal mais comum é o chamado ataque isquémico transitório, ou AIT. Este é um tipo de AVC reversível que normalmente desaparece após alguns minutos. Estas pessoas podem normalmente obter tratamento que irá prevenir um AVC no futuro. Por exemplo, poderão ser aconselhadas a tomar aspirina ou corrigir a obstrução de uma artéria do pescoço através da cirurgia da artéria carótida.
 
-### Quais são a efeitos a longo prazo da doença?
+###  Quais são a efeitos a longo prazo da doença?
 
 Os AVC’s podem provocar a morte ou invalidez permanente. Apesar de algumas pessoas recuperarem algumas funções nos primeiros meses após um AVC, outras não demonstram qualquer recuperação. Algumas pessoas têm vários pequenos AVC’s ao longo do tempo e vão piorando devagar com cada AVC.
 
-###Quais são os riscos para os outros?
+### Quais são os riscos para os outros?
 
 Os AVC’s não são contagiosos e não apresentam riscos para terceiros.
 
-##Tratamento e Monitorização
+## Tratamento e Monitorização
 
-###Quais são os tratamentos para a doença?
+### Quais são os tratamentos para a doença?
 
 Se alguém tiver os sinais de alerta prévios de AVC, o sistema de emergência medico deverá ser imediatamente contactado. Estes sinais incluem um início súbito de:
 
@@ -163,16 +163,16 @@ Terapia de suporte poderá ser também necessária com alguns AVC’s. Isso pode
 
 Serviços de reabilitação poderão ajudar a melhorar a função de uma pessoa após AVC. Terapia física e outras terapias, como terapia da fala e terapia ocupacional, poderão ser utilizadas para maximizar a recuperação.
 
-###Quais são os efeitos secundários do tratamento?
+### Quais são os efeitos secundários do tratamento?
 
 Os efeitos secundários dependem dos tratamentos utilizados. Por exemplo, um ventilador poderá por vezes provocar danos nos pulmões ou uma infeção.
 
-###O que acontece após tratamento da doença?
+### O que acontece após tratamento da doença?
 
 Depois da pessoa estar estável, do tratamento dos fatores de risco de AVC, assim como as causas do AVC, é importante prevenir futures AVC’s. Por exemplo, parar de fumar e controlar a pressão arterial alta, os diabetes, e o elevado colesterol são aconselhados à maioria das pessoas.
 
 Muitas pessoas precisam de assistência de uma forma ou de outra após um AVC. Isso poderá significar desde a utilização de uma bengala à necessidade de auxílio de enfermagem qualificado 24 horas por dia. Terapia contínua para melhorar a função é geralmente recomendada durante pelo menos 6 meses de a pessoa puder.
 
-###Como é monitorizada a doença?
+### Como é monitorizada a doença?
 
 As pessoas que têm um AVC são muitas vezes internadas no hospital para acompanhamento rigoroso. Assim que a pessoa estiver estável, poderá ser reencaminhada para casa ou para serviços especializados de enfermagem ou centro de reabilitação para terapia adicional. Quaisquer novos sintomas ou agravamento deverão ser comunicados ao prestador de cuidados de saúde.

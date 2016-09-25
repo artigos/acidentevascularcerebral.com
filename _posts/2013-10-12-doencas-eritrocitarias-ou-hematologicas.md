@@ -3,9 +3,9 @@ layout: default
 title: Doenças eritrocitárias ou hematológicas
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As doenças eritrocitárias ou hematológicas estão associadas a um risco de acidente vascular cerebral.
+## As doenças eritrocitárias ou hematológicas estão associadas a um risco de acidente vascular cerebral.
 
 A policitémia vera é uma doença hematológica neoplásica caracterizada por um aumento da massa de glóbulos vermelhos com hiperviscosidade e um aumento da resistência vascular. Pode haver uma incidência elevada ou uma recorrência de tromboses arteriais, venosas ou dos seios cerebrais em vasos de grande ou pequeno calibre. Aproximadamente 15% dos doentes com policitémia vera morrem de trombose cerebral, 87% dos quais após episódios repetidos. Tanto a drepanocitose como a policitémia vera aumentam a viscosidade sanguínea, com ateromas que degeneram as paredes dos vasos sanguíneos e ingurgitamento vascular. A trombocitémia é caracterizada por uma agregação plaquetária espontânea com manifestações isquémicas tromboembólicas.
 

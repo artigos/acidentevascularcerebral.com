@@ -3,9 +3,9 @@ layout: default
 title: Doença de Behçet
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A doença de Behçet, uma doença inflamatória recorrente, pode afectar o SNC com um acidente vascular cerebral isquémico.
+## A doença de Behçet, uma doença inflamatória recorrente, pode afectar o SNC com um acidente vascular cerebral isquémico.
 
 A doença consiste em ulcerações aftosas e genitais recorrentes e pode incluir uma vasculite retiniam, um eritema nodoso, parésias dos abdutores e ataxia cerebelosa. A sarcoidose do sistema nervoso pode resultar numa vasculite cerebral com enfartes.
 

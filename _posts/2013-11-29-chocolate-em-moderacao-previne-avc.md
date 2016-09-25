@@ -3,9 +3,9 @@ layout: default
 title: Chocolate em moderação previne AVC
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O chocolate comido em moderação ajuda na prevenção do Acidente Vascular Cerebral e doenças cardiovasculares.
+## O chocolate comido em moderação ajuda na prevenção do Acidente Vascular Cerebral e doenças cardiovasculares.
 
 Esta foi a conclusão de um estudo apresentado no Congresso da Sociedade Europeia de Cardiologia, que decorreu em Paris, e publicado no _British Medical Journal_.
 

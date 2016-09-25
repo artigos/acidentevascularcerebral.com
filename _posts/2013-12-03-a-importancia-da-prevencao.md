@@ -3,9 +3,9 @@ layout: default
 title: A importância da prevenção
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Se há doenças cujos resultados são devastadores, os Acidentes Vasculares Cerebrais são uma delas, não só porque têm uma elevada mortalidade e recorrência, mas porque deixam sequelas várias, a maior parte irreversíveis e outras com agravamento progressivo.
+## Se há doenças cujos resultados são devastadores, os Acidentes Vasculares Cerebrais são uma delas, não só porque têm uma elevada mortalidade e recorrência, mas porque deixam sequelas várias, a maior parte irreversíveis e outras com agravamento progressivo.
 
 Felizmente hoje em dia, e em casos seleccionados, é possível intervir eficazmente na fase aguda minimizando as consequências.
 

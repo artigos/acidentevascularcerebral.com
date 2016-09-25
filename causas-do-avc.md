@@ -4,7 +4,7 @@ title: Causas do Acidente Vascular Cerebral
 permalink: /causas-do-avc.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ![Causas do AVC](../assets/acidente-vascular-cerebral-2.jpg "Causas do AVC")
 

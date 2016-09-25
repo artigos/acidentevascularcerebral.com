@@ -3,11 +3,11 @@ layout: default
 title: Acidente Vascular Cerebral de Tainara Bertazi Duarte
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ![AVC – Caso Tainara Bertazi Duarte](../assets/tainara.jpg "AVC – Caso Tainara Bertazi Duarte")
 
-##Olá! Meu nome é Tainara, tenho 23 anos e tive um AVC isquêmico no final do ano, quando eu tinha 22 (isso mesmo, 22!)
+## Olá! Meu nome é Tainara, tenho 23 anos e tive um AVC isquêmico no final do ano, quando eu tinha 22 (isso mesmo, 22!)
 
 Dia 06 de outubro, sábado, dia lindo, bebi umas cervejinhas (umas 3 ou 4), estava com meu namorado e uns amigos numa festa! Até que chegou a hora de irmos embora, e fomos com um amigo meu.
 

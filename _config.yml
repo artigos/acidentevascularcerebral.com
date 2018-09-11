@@ -5,5 +5,5 @@ url:              https://www.acidentevascularcerebral.com
 permalink: /:title
 post_dirs: false
 markdown: kramdown
-gems:
+plugins:
   - jekyll-sitemap

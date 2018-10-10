@@ -11,7 +11,7 @@ Felizmente hoje em dia, e em casos seleccionados, é possível intervir eficazme
 
 Por esta razão e sabendo que ao intervir sobre os diversos factores de risco causadores de AVC pode prevenir mais de 50% da probabilidade de o sofrer, a atuação sobre estes é de primordial importância. Os factores de risco vascular - hipertensão arterial, fibrilhação auricular, doenças valvulares cardíacas, diabetes melitus, colesterol elevado, obesidade, sedentarismo, consumo de tabaco, e consumo excessivo de álcool criam um terreno favorável ao aparecimento dos AVC.
 
-As recomendações para que isso se previna são a prática regular de exercício físico e uma alimentação adequada, consulte o [www.dietas.pt](//www.dietas.pt) para mais informações.
+As recomendações para que isso se previna são a prática regular de exercício físico e uma alimentação adequada, consulte o [dietas.pt](//dietas.pt) para mais informações.
 
 O que deverá evitar são a obesidade, sedentarismo, consumo de tabaco, e consumo excessivo de álcool, deverá reduzir o excesso de peso através de menor consumo de calorias e a ter uma actividade física moderada, assim como a evitar o consumo excessivo de álcool e a abolir o consumo de tabaco.
 

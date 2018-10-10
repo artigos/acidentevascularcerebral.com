@@ -1,9 +1,9 @@
 /*!
  * Modernizr v2.7.1
- * www.modernizr.com
+ * modernizr.com
  *
  * Copyright (c) Faruk Ates, Paul Irish, Alex Sexton
- * Available under the BSD and MIT licenses: www.modernizr.com/license/
+ * Available under the BSD and MIT licenses: modernizr.com/license/
  */
 
 /*
@@ -16,7 +16,7 @@
  * Modernizr has an optional (not included) conditional resource loader
  * called Modernizr.load(), based on Yepnope.js (yepnopejs.com).
  * To get a build that includes Modernizr.load(), as well as choosing
- * which tests to include, go to www.modernizr.com/download/
+ * which tests to include, go to modernizr.com/download/
  *
  * Authors        Faruk Ates, Paul Irish, Alex Sexton
  * Contributors   Ryan Seddon, Ben Alman
@@ -78,7 +78,7 @@ window.Modernizr = (function( window, document, undefined ) {
     /*>>domprefixes*/
 
     /*>>ns*/
-    ns = {'svg': '//www.w3.org/2000/svg'},
+    ns = {'svg': '//w3.org/2000/svg'},
     /*>>ns*/
 
     tests = {},
@@ -406,7 +406,7 @@ window.Modernizr = (function( window, document, undefined ) {
     };
 
     // The *old* flexbox
-    // www.w3.org/TR/2009/WD-css3-flexbox-20090723/
+    // w3.org/TR/2009/WD-css3-flexbox-20090723/
 
     tests['flexboxlegacy'] = function() {
         return testPropsAll('boxDirection');
@@ -782,7 +782,7 @@ window.Modernizr = (function( window, document, undefined ) {
     // Because we are forced to try/catch this, we'll go aggressive.
 
     // Just FWIW: IE8 Compat mode supports these features completely:
-    //   www.quirksmode.org/dom/html5.html
+    //   quirksmode.org/dom/html5.html
     // But IE8 doesn't support either with local files
 
     tests['localstorage'] = function() {
@@ -853,7 +853,7 @@ window.Modernizr = (function( window, document, undefined ) {
         // Mike Taylr has created a comprehensive resource for testing these attributes
         //   when applied to all input types:
         //   miketaylr.com/code/input-type-attr.html
-        // spec: www.whatwg.org/specs/web-apps/current-work/multipage/the-input-element.html#input-type-attr-summary
+        // spec: whatwg.org/specs/web-apps/current-work/multipage/the-input-element.html#input-type-attr-summary
 
         // Only input placeholder is tested while textarea's placeholder is not.
         // Currently Safari 4 and Opera 11 have support only for the input placeholder

@@ -1,6 +1,6 @@
 # Site wide configuration
 
-url:              https://www.acidentevascularcerebral.com
+url:              https://acidentevascularcerebral.com
 
 permalink: /:title
 post_dirs: false
